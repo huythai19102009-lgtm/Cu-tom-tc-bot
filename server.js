@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const WEBHOOK_SECRET = process.env.WEBHOOK_SECRET;
 const PUBLIC_BASE_URL = process.env.PUBLIC_BASE_URL;
-const DATA_FILE = path.join(process.cwd(), "data", "tournament.json");
+const DATA_FILE = path.join(process.cwd(), "tournament.json");
 
 function loadData() {
   return JSON.parse(fs.readFileSync(DATA_FILE, "utf8"));
