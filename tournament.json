@@ -1,0 +1,88 @@
+{
+  "teams": [
+    {
+      "id": "T01",
+      "name": "TEAM 01"
+    },
+    {
+      "id": "T02",
+      "name": "TEAM 02"
+    },
+    {
+      "id": "T03",
+      "name": "TEAM 03"
+    },
+    {
+      "id": "T04",
+      "name": "TEAM 04"
+    },
+    {
+      "id": "T05",
+      "name": "TEAM 05"
+    },
+    {
+      "id": "T06",
+      "name": "TEAM 06"
+    },
+    {
+      "id": "T07",
+      "name": "TEAM 07"
+    },
+    {
+      "id": "T08",
+      "name": "TEAM 08"
+    },
+    {
+      "id": "T09",
+      "name": "TEAM 09"
+    },
+    {
+      "id": "T10",
+      "name": "TEAM 10"
+    },
+    {
+      "id": "T11",
+      "name": "TEAM 11"
+    },
+    {
+      "id": "T12",
+      "name": "TEAM 12"
+    }
+  ],
+  "players": {
+    "123456789": "T01"
+  },
+  "games": [
+    {
+      "game": 1,
+      "results": []
+    },
+    {
+      "game": 2,
+      "results": []
+    },
+    {
+      "game": 3,
+      "results": []
+    },
+    {
+      "game": 4,
+      "results": []
+    }
+  ],
+  "placementPoints": [
+    12,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0,
+    0
+  ],
+  "pointsPerKill": 1
+}
